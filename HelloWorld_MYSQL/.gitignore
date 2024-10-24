@@ -1,0 +1,11 @@
+# Log dosyaları
+*.log
+replay_pid16680.log
+hs_err_pid16680.log
+
+# Target klasörü
+/target/
+
+# Maven Wrapper dosyaları 
+/mvnw
+/mvnw.cmd

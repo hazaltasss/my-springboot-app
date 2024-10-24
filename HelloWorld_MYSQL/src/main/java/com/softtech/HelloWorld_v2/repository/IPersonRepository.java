@@ -1,11 +1,3 @@
-//package com.softtech.HelloWorld_v2.repository;
-//
-//import org.springframework.data.repository.CrudRepository;
-//import com.softtech.HelloWorld_v2.entity.Person;
-//
-//public interface IPersonRepository extends CrudRepository<Person, Long> {
-//
-//}
 package com.softtech.HelloWorld_v2.repository;
 
 import com.softtech.HelloWorld_v2.entity.Person;

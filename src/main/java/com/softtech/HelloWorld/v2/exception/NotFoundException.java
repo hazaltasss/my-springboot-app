@@ -1,4 +1,4 @@
-package com.softtech.HelloWorld_v2.exception;
+package com.softtech.HelloWorld.v2.exception;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException() {

@@ -1,4 +1,4 @@
-package com.softtech.HelloWorld_v2.entity;
+package com.softtech.HelloWorld.v2.entity;
 
 import jakarta.persistence.*;
 

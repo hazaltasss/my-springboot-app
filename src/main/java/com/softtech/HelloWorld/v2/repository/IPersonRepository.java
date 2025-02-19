@@ -1,10 +1,10 @@
-package com.softtech.HelloWorld_v2.repository;
+package com.softtech.HelloWorld.v2.repository;
 
-import com.softtech.HelloWorld_v2.entity.Person;
+import com.softtech.HelloWorld.v2.entity.Person;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
-import com.softtech.HelloWorld_v2.dto.CreditSummary;
+import com.softtech.HelloWorld.v2.dto.CreditSummary;
 import java.time.LocalDate;
 
 import java.math.BigDecimal;

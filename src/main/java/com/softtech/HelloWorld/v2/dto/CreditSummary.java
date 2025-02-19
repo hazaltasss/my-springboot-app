@@ -1,4 +1,4 @@
-package com.softtech.HelloWorld_v2.dto;
+package com.softtech.HelloWorld.v2.dto;
 
 import java.math.BigDecimal;
 

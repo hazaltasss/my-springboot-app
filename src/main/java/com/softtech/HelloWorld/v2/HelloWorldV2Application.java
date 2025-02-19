@@ -1,4 +1,4 @@
-package com.softtech.HelloWorld_v2;
+package com.softtech.HelloWorld.v2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

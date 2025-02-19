@@ -9,3 +9,7 @@ hs_err_pid16680.log
 # Maven Wrapper dosyaları 
 /mvnw
 /mvnw.cmd
+
+# IDEA klasörü
+/.idea/
+".idea/" 
